@@ -7,3 +7,5 @@ Topics:
 -Print & Variables
 -Loops
 -Basic syntax
+
+> This repository is a learning log to document my progress in Python and software engineering fundamentals.

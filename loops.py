@@ -1,3 +1,3 @@
 for i in range(5):
-    print(F"Loop ke-{i}")
+    print(f"Loop ke-{i}")
 print ("Loop Finished")

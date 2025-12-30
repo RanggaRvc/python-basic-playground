@@ -1,12 +1,21 @@
-# Python-basic-playground
+# Python Basic Playground
 
-My first GitHub repository.
-This repo contains basic Python practice as I start my journey in software engineering.
+This is my first GitHub repository.
+It contains basic Python practice as I start my journey in software engineering.
 
-Topics:
+> This repository serves as a learning log to document my progress in Python and software engineering fundamentals.
 
--Print & Variables
--Loops
--Basic syntax
+## Topics Covered
+- Print & Variables
+- Conditional Statements (if–else)
+- Loops
+- User Input
+- Lists
+- Dictionaries
+- Functions
 
-> This repository is a learning log to document my progress in Python and software engineering fundamentals.
+## Notes
+Each file focuses on one core concept to keep the learning process simple and structured.
+
+## Status
+Completed ✅

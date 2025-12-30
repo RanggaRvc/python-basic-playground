@@ -1,3 +1,5 @@
 name ="Rangga"
 age = 21
-print(nama, age)
+
+print("Name", name)
+print("Age:", age)

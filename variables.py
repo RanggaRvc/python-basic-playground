@@ -1,5 +1,5 @@
 name ="Rangga"
 age = 21
 
-print("Name", name)
-print("Age:", age)
+print(f"Name: {name}")
+print(f:Age: {age}")
